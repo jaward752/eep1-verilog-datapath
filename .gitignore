@@ -1,0 +1,5 @@
+# Simulator outputs (regenerated every run)
+a.out
+*_test
+*.vvp
+*.vcd
